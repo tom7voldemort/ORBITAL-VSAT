@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TOM7%20ORBITAL%20VSAT%20DDOS&fontSize=40&fontAlignY=35&animation=twinkling"/>
     <h4 align="center">ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY</h4>
     <h4 align="center">ORBITAL V.S.A.T</h4>
