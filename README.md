@@ -64,7 +64,6 @@
         <li align="left">COPY - WebDAV COPY Method</li>
         <li align="left">MOVE - WebDAV MOVE Method</li>
         <li align="left">RUDY - R-U-DEAD-YET Attack</li>
-        <li align="left">ARBITRARY STRING - Custom HTTP Methods</li>
     </p>
     <br>
     <h4 align="center">LAYER 7: HTTP/2 | HTTP/3</h4>
@@ -258,11 +257,10 @@ python3 tom7orbitalVSAT.py
 <div align="left">
     <h2 align="left">Version Information</h2>
     <p align="left">
-        <li align="left"><strong>Version:</strong> VSAT 7.0</li>
-        <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
         <li align="left"><strong>Author:</strong> TOM7</li>
         <li align="left"><strong>GitHub:</strong> @tomxpo9</li>
-        <li align="left"><strong>Codename:</strong> GGNTM26X CROW STRIKE 2</li>
+        <li align="left"><strong>Version:</strong> VSAT 7.0</li>
+        <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
     </p>
 </div>
 
