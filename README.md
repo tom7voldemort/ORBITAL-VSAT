@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TOM7%20ORBITAL%20VSAT%20DDOS&fontSize=40&fontAlignY=35&animation=twinkling"/>
     <h4 align="center">ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY</h4>
-    <h4 align="center">ORBITAL V.S.A.T</h4>
+    <h4 align="center">ORBITAL V.S.A.T DDOS</h4>
     <h5 align="center">By TOM7</h5>
 </div>
 
@@ -256,13 +256,12 @@ python3 tom7orbitalVSAT.py
 ---
 
 <div align="left">
-    <h2 align="left">Version Information</h2>
+    <h2 align="left">Tools Information</h2>
     <p align="left">
-        <li align="left"><strong>Version:</strong> VSAT 7.0</li>
-        <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
         <li align="left"><strong>Author:</strong> TOM7</li>
         <li align="left"><strong>GitHub:</strong> @tomxpo9</li>
-        <li align="left"><strong>Codename:</strong> GGNTM26X CROW STRIKE 2</li>
+        <li align="left"><strong>Version:</strong> VSAT 7.0</li>
+        <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
     </p>
 </div>
 
