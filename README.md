@@ -1,9 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TOM7%20ORBITAL%20VSAT%20DDOS&fontSize=40&fontAlignY=35&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ORBITAL%20VSAT%20V7&fontSize=40&fontAlignY=35&animation=twinkling"/>
     <h4 align="center">ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY</h4>
-    <h4 align="center">ORBITAL V.S.A.T</h4>
+    <h4 align="center">ORBITAL VSAT DDOS</h4>
     <h5 align="center">By TOM7</h5>
 </div>
+
+---
 
 <div align="left">
     <h2 align="left"><img src="https://f.top4top.io/p_3591is0va1.gif" width="40" height="40">&nbsp;WARNING!</h2>
@@ -19,7 +21,7 @@
 
 <div align="left">
     <h2 align="left"><img src="https://d.top4top.io/p_3618u2st91.gif" width="40" height="40">&nbsp;Introducing</h2>
-    <h4 align="left">A Modern DDOS Tools With Several Attack Vector By TOM7</h4>
+    <h4 align="left">Orbital VSAT 7.0: Volumetric Shockwaves Artillery</h4>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=python,rocket,linux,windows,bash" />
     </p>
@@ -27,12 +29,12 @@
         <li align="left">Build With Python 3</li>
         <li align="left">High Speed Attack With Multi-Core & Cluster Processing</li>
         <li align="left">Multi Device Support</li>
-        <li align="left">1 Socket Produce 500 Requests In 1 Cycle Of Requests [ Default Count & Can Be Increase Or Decrease Depend Or Your Setup ]</li>
+        <li align="left">1 Socket Produce 500 Requests In 1 Cycle Of Requests [ Optimized for Speed ]</li>
         <li align="left">Multi Layer Methods [ Layer 7, Layer 4, Layer 3 ]</li>
-        <li align="left">HTTP1 | HTTP2 | HTTP3 Support</li>
-        <li align="left">Auto Detect Fingerprining</li>
+        <li align="left">HTTP/1.1 | HTTP/2 | HTTP/3 Support</li>
+        <li align="left">Auto Detect Fingerprining & JA3 Spoofing</li>
         <li align="left">50+ Attack Vectors Available</li>
-        <li align="left">JA3 Fingerprinting Support [ chrome | firefox | safari ]</li>
+        <li align="left">Real-time Statistics (RPS & Bandwidth)</li>
     </p>
 </div>
 
@@ -46,8 +48,8 @@
         <li align="left">POST - HTTP POST Flood [ 64KB Payloads ]</li>
         <li align="left">HEAD - HTTP HEAD Flood</li>
         <li align="left">PUT - HTTP PUT Flood</li>
-        <li align="left">PATCH - HTTP PATCH Flood</li>
         <li align="left">DELETE - HTTP DELETE Flood</li>
+        <li align="left">PATCH - HTTP PATCH Flood</li>
         <li align="left">OPTIONS - HTTP OPTIONS Flood</li>
         <li align="left">XMLRPC - XML-RPC Pingback attack</li>
         <li align="left">CACHE - Cache Bypass Flood</li>
@@ -58,12 +60,7 @@
         <li align="left">RANDOM - Random HTTP Methods Flood</li>
         <li align="left">TRACE - HTTP TRACE Flood</li>
         <li align="left">CONNECT - HTTP CONNECT Flood</li>
-        <li align="left">PROPFIND - WebDAV PROPFIND Method</li>
-        <li align="left">LOCK - WebDAV LOCK Method</li>
-        <li align="left">UNLOCK - WebDAV UNLOCK Method</li>
-        <li align="left">COPY - WebDAV COPY Method</li>
-        <li align="left">MOVE - WebDAV MOVE Method</li>
-        <li align="left">RUDY - R-U-DEAD-YET Attack</li>
+        <li align="left">RUDY - ARE-YOU-DEAD-YET Attack</li>
     </p>
     <br>
     <h4 align="center">LAYER 7: HTTP/2 | HTTP/3</h4>
@@ -87,7 +84,7 @@
         <li align="left">SYNACK - TCP SYN-ACK Reflection</li>
         <li align="left">PSH - TCP PSH + ACK Flood</li>
         <li align="left">URG - TCP URG Flood</li>
-        <li align="left">XMAS - TCP XMAS SCAN Flood [ FIN+PSH+URG ]</li>
+        <li align="left">XMAS - TCP XMAS SCAN Flood</li>
         <li align="left">NULL - TCP NULL SCAN Flood</li>
     </p>
     <br>
@@ -116,22 +113,21 @@
     <h2 align="left"><img src="https://d.top4top.io/p_3618u2st91.gif" width="40" height="40">&nbsp;Tools Configuration Support</h2>
     <h4 align="left">WAF Bypass & Advanced Features</h4>
     <p align="left">
-        <li align="left">Random User Agent Rotation</li>
-        <li align="left">Random Proxies Rotation/Proxychaining</li>
-        <li align="left">Random Referers/Sources</li>
+        <li align="left">User-Agent Headers Randomization (Load from UA.txt)</li>
+        <li align="left">Proxy Address Randomization/Proxychaining Support</li>
+        <li align="left">Referers Randomization/Requests Sources Randomization</li>
         <li align="left">Multi HTTP Version Support [ HTTP/1.1 | HTTP/2 | HTTP/3 ]</li>
         <li align="left">Smart Fingerprinting Handshake</li>
         <li align="left">JA3 Fingerprinting [ chrome | firefox | safari ]</li>
-        <li align="left">TLS/SSL Custom Cipher Configuration</li>
+        <li align="left">TLS/SSL Custom Cipher Configuration (ECDHE+AESGCM, etc.)</li>
         <li align="left">X-Forwarded-For Header Spoofing</li>
         <li align="left">Keep-Alive Connection Management</li>
         <li align="left">TCP Socket Optimization [ TCP_NODELAY, SO_KEEPALIVE, SO_REUSEADDR ]</li>
     </p>
     <h4 align="left">Performance Features</h4>
     <p align="left">
-        <li align="left">Multi-Core CPU Cluster Processing</li>
+        <li align="left">Multi-Core CPU Cluster Processing (Multiprocessing)</li>
         <li align="left">ThreadPoolExecutor for Concurrent Attacks</li>
-        <li align="left">Multiprocessing Support</li>
         <li align="left">Real-time Statistics Display [ RPS, Bandwidth, Total Requests ]</li>
         <li align="left">Configurable Thread Count [ Default: 500 ]</li>
         <li align="left">Configurable Attack Duration [ Default: 60 seconds ]</li>
@@ -144,6 +140,7 @@
 <div align="left">
     <h2 align="left"><img src="https://j.top4top.io/p_3591zhz0p1.gif" width="40" height="40">&nbsp;Installation & Usage</h2>
 </div>
+
 
 ```💻 shell command
 git clone https://github.com/tomxpo9/TOM7-ORBITAL-VSAT.git
@@ -246,16 +243,8 @@ python3 tom7orbitalVSAT.py
 
 ---
 
-<h2 align="left">Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomxpo9&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomxpo9&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
----
-
 <div align="left">
-    <h2 align="left">Version Information</h2>
+    <h2 align="left">Tools Information</h2>
     <p align="left">
         <li align="left"><strong>Author:</strong> TOM7</li>
         <li align="left"><strong>GitHub:</strong> @tomxpo9</li>
@@ -274,3 +263,4 @@ python3 tom7orbitalVSAT.py
         <img src="https://skillicons.dev/icons?i=github" />
     </p>
 </div>
+
