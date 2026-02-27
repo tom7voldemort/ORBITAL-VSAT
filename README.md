@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ORBITAL%20VSAT%20V7&fontSize=40&fontAlignY=35&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ORBITAL%20VSAT&fontSize=40&fontAlignY=35&animation=twinkling"/>
     <h4 align="center">ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY</h4>
     <h4 align="center">ORBITAL VSAT DDOS</h4>
     <h5 align="center">By TOM7</h5>
