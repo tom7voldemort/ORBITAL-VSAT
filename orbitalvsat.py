@@ -4,8 +4,9 @@
 # Author: TOM7
 # GitHub: @tom7voldemort | https://github.com/tom7voldemort
 # Release: November 25th, 2025
-# Version: VSAT7.0
+# Version: VSAT.7.0
 # All Layers [ 3 | 4 | 7 ] + HTTP/2 + HTTP/3 + JA3 Spoof + Multi Methods
+# Note: For some features is under development. i will realease it ASAP
 
 try:
     import multiprocessing as mp
