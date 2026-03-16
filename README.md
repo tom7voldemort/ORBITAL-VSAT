@@ -20,7 +20,7 @@
 
 <div align="left">
     <h2 align="left"><img src="https://d.top4top.io/p_3618u2st91.gif" width="40" height="40">&nbsp;Introducing</h2>
-    <h4 align="left">Orbital VSAT 7.0</h4>
+    <h4 align="left">ORBITAL VSAT 7.0</h4>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=python,rocket,linux,windows,bash" />
     </p>
@@ -134,6 +134,8 @@
     </p>
 </div>
 
+> NOTES: For some features is under development, because this version is early release version.
+
 ---
 
 <div align="left">
@@ -142,10 +144,10 @@
 
 
 ```💻 shell command
-git clone https://github.com/tomxpo9/TOM7-ORBITAL-VSAT.git
-cd TOM7-ORBITAL-VSAT
+git clone https://github.com/tom7voldemort/ORBITAL-VSAT.git
+cd ORBITAL-VSAT
 pip3 install -r requirements.txt --break-system-packages
-sudo python3 tom7orbitalVSAT.py
+sudo python3 orbitalvsat.py
 ```
 
 <h3 align="left">Requirements</h3>
@@ -196,7 +198,7 @@ python3 orbitalvsat.py
 
 ```bash
 # Type 'h' when prompted to see full method list
-python3 tom7orbitalVSAT.py
+python3 orbitalvsat.py
 > Continue? Y/n/h
 > h  # Shows complete helper menu
 ```
