@@ -22,7 +22,7 @@
     <h2 align="left"><img src="https://d.top4top.io/p_3618u2st91.gif" width="40" height="40">&nbsp;Introducing</h2>
     <h4 align="left">ORBITAL VSAT 7.0</h4>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,rocket,linux,windows,bash" />
+        <img src="https://skillicons.dev/icons?i=python,linux,windows" />
     </p>
     <p align="left">
         <li align="left">Build With Python 3</li>
