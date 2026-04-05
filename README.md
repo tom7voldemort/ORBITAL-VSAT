@@ -257,10 +257,7 @@ python3 orbitalvsat.py
 ---
 
 <div align="left">
-    <h2 align="left">Support 0xTOM7</h2>
+    <h2 align="left">Follow 0xTOM7 & Let's be a friend</h2>
     <p align="center"><img src="https://i.top4top.io/p_3591fg50i1.gif" width="200" height="200"></p>
-    <p align=left>
-        <img src="https://skillicons.dev/icons?i=github" />
-    </p>
 </div>
 
