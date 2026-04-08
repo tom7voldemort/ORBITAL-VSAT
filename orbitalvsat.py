@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
-# TOM7 ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY a.k.a ORBITAL VSAT
-# Author: TOM7
-# GitHub: @tom7voldemort | https://github.com/tom7voldemort
+# ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY a.k.a ORBITAL VSAT
+# Author: 0xTM7
+# GitHub: @0xTM7 | https://github.com/0xTM7
 # Release: November 25th, 2025
 # Version: VSAT.7.0
 # All Layers [ 3 | 4 | 7 ] + HTTP/2 + HTTP/3 + JA3 Spoof + Multi Methods
@@ -87,11 +87,11 @@ banner = f"""
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {Back.RESET}
 
-    {Fore.GREEN} TOM7 ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY
+    {Fore.GREEN}    ORBITAL VOLUMETRIC SHOCKWAVES ARTILLERY
 
     {Fore.YELLOW}[{Fore.RED}I{Fore.YELLOW}] {Fore.MAGENTA} INFORMATIONS:
-        {Fore.GREEN} Author           \t: {Fore.WHITE} TOM7
-        {Fore.GREEN} GitHub           \t: {Fore.WHITE} @tom7voldemort | https://github.com/tom7voldemort
+        {Fore.GREEN} Author           \t: {Fore.WHITE} 0xTM7
+        {Fore.GREEN} GitHub           \t: {Fore.WHITE} @0xTM7 | https://github.com/0xTM7
         {Fore.GREEN} Version          \t: {Fore.WHITE} VSAT.6.0
         {Fore.GREEN} Release          \t: {Fore.WHITE} NOV 30 2025
         {Fore.GREEN} Today            \t: {Fore.WHITE} {now.strftime("%Y-%m-%d %H:%M:%S")}
@@ -488,7 +488,9 @@ class OrbitalVSAT:
                     if not self.running.value:
                         break
                     try:
-                        h2Connection.prioritize(stream_id, weight=random.randint(1, 256))
+                        h2Connection.prioritize(
+                            stream_id, weight=random.randint(1, 256)
+                        )
                         headers = [
                             (":method", "POST" if "POST" in self.method else "GET"),
                             (":scheme", self.scheme),

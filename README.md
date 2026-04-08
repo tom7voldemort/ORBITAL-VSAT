@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ORBITAL%20VSAT&fontSize=40&fontAlignY=35&animation=twinkling"/>
     <h4 align="center">ORBITAL VSAT DDOS</h4>
-    <h5 align="center">By 0xTOM7</h5>
+    <h5 align="center">By 0xTM7</h5>
 </div>
 
 ---
@@ -144,7 +144,7 @@
 
 
 ```💻 shell command
-git clone https://github.com/tom7voldemort/ORBITAL-VSAT.git
+git clone https://github.com/0xTM7/ORBITAL-VSAT.git
 cd ORBITAL-VSAT
 pip3 install -r requirements.txt --break-system-packages
 sudo python3 orbitalvsat.py
@@ -162,7 +162,7 @@ aioquic           # HTTP/3 support (optional)
 
 ```bash
 # Basic HTTP GET Attack
-python3 tom7orbitalvsat.py
+python3 orbitalvsat.py
 > TARGET: example.com
 > METHODS: GET
 > PROTOCOL: h1
@@ -247,8 +247,8 @@ python3 orbitalvsat.py
 <div align="left">
     <h2 align="left">Tools Information</h2>
     <p align="left">
-        <li align="left"><strong>Author:</strong> 0xTOM7</li>
-        <li align="left"><strong>GitHub:</strong> tom7voldemort</li>
+        <li align="left"><strong>Author:</strong> 0xTM7</li>
+        <li align="left"><strong>GitHub:</strong> 0xTM7</li>
         <li align="left"><strong>Version:</strong> VSAT 7.0</li>
         <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
     </p>
@@ -257,7 +257,7 @@ python3 orbitalvsat.py
 ---
 
 <div align="left">
-    <h2 align="left">Follow 0xTOM7 & Let's be a friend</h2>
+    <h2 align="left">Follow 0xTM7 & Let's be a friend</h2>
     <p align="center"><img src="https://i.top4top.io/p_3591fg50i1.gif" width="200" height="200"></p>
 </div>
 
