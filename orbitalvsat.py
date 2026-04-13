@@ -4,7 +4,7 @@
 # Author: 0xTM7
 # GitHub: @0xTM7 | https://github.com/0xTM7
 # Release: November 25th, 2025
-# Version: VSAT.7.0
+# Version: VSAT.2.0
 # All Layers [ 3 | 4 | 7 ] + HTTP/2 + HTTP/3 + JA3 Spoof + Multi Methods
 # Note: For some features is under development. i will realease it ASAP
 
@@ -92,8 +92,8 @@ banner = f"""
     {Fore.YELLOW}[{Fore.RED}I{Fore.YELLOW}] {Fore.MAGENTA} INFORMATIONS:
         {Fore.GREEN} Author           \t: {Fore.WHITE} 0xTM7
         {Fore.GREEN} GitHub           \t: {Fore.WHITE} @0xTM7 | https://github.com/0xTM7
-        {Fore.GREEN} Version          \t: {Fore.WHITE} VSAT.6.0
-        {Fore.GREEN} Release          \t: {Fore.WHITE} NOV 30 2025
+        {Fore.GREEN} Version          \t: {Fore.WHITE} VSAT.2.0
+        {Fore.GREEN} Release          \t: {Fore.WHITE} APRIL 13 2026
         {Fore.GREEN} Today            \t: {Fore.WHITE} {now.strftime("%Y-%m-%d %H:%M:%S")}
 
         {Fore.GREEN} HTTP/2           \t: {Fore.WHITE} {"✓ Enabled" if HAS_H2 else "✗ Install h2"}
@@ -381,9 +381,9 @@ class OrbitalVSAT:
                         request = f"{httpMethods} {path} HTTP/1.1\r\n"
                         request += f"Host: {self.host}\r\n"
                         request += f"User-Agent: {ua}\r\n"
-                        request += f"Accept: */*\r\n"
+                        request += "Accept: */*\r\n"
                         request += f"X-Forwarded-For: {self.randip()}\r\n"
-                        request += f"Connection: keep-alive\r\n"
+                        request += "Connection: keep-alive\r\n"
                         if httpMethods in ["POST", "PUT", "PATCH"]:
                             body = ("X" * 65536).encode()
                             request += f"Content-Length: {len(body)}\r\n\r\n"

@@ -20,7 +20,7 @@
 
 <div align="left">
     <h2 align="left"><img src="https://d.top4top.io/p_3618u2st91.gif" width="40" height="40">&nbsp;Introducing</h2>
-    <h4 align="left">ORBITAL VSAT 7.0</h4>
+    <h4 align="left">ORBITAL VSAT 2.0</h4>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=python,linux,windows" />
     </p>
@@ -146,16 +146,21 @@
 ```💻 shell command
 git clone https://github.com/0xTM7/ORBITAL-VSAT.git
 cd ORBITAL-VSAT
-pip3 install -r requirements.txt --break-system-packages
+pip install -r requirements.txt --break-system-packages
 sudo python3 orbitalvsat.py
 ```
 
 <h3 align="left">Requirements</h3>
 
 ```python
-colorama          # Terminal color output
+requests
+pysocks
+pyopenssl
+colorama
+hpack
 h2                # HTTP/2 support (optional)
 aioquic           # HTTP/3 support (optional)
+aiohttp           # HTTP support (optional)
 ```
 
 <h3 align="left">Usage Examples</h3>
@@ -249,8 +254,8 @@ python3 orbitalvsat.py
     <p align="left">
         <li align="left"><strong>Author:</strong> 0xTM7</li>
         <li align="left"><strong>GitHub:</strong> 0xTM7</li>
-        <li align="left"><strong>Version:</strong> VSAT 7.0</li>
-        <li align="left"><strong>Release Date:</strong> November 30, 2025</li>
+        <li align="left"><strong>Version:</strong> VSAT 2.0</li>
+        <li align="left"><strong>Release:</strong> APRIL 13 2026</li>
     </p>
 </div>
 
